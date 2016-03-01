@@ -7,10 +7,9 @@
 		</head>
 		<body>
 		<div class="container">
-			<div class="jumbotron">
-         <h1>Sylhet City Corporation</h1>
-          
-         </div>
+			<div class="well well-lg">
+	  <h1 style="text-align:center">Sylhet City Corporation</h1>	
+  </div> 
 		</div>
 		</body>
 		</html>
