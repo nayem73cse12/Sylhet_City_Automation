@@ -9,6 +9,7 @@
 		<div class="container">
 			<div class="well well-lg">
 	  <h1 style="text-align:center">Sylhet City Corporation</h1>	
+	  <h5 style="text-align:center">Home page</h5>
   </div> 
 		</div>
 		</body>
