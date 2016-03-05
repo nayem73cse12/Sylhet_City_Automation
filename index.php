@@ -7,13 +7,14 @@
 		</head>
 		<body>
 		<div class="container">
+		
 			<div class="well well-lg">
 	  <h1 style="text-align:center">Sylhet City Corporation</h1>	
 	  <h5 style="text-align:center">User log in</h5>
 	    </div> 
 	    <br><br>
 
-	    <h4 style="text-align:center">Please, provide username & password or <a href="">create new account</a>.</h4>
+	    <h4 style="text-align:center">Please, provide username & password or <a href="new_user.php">create new account</a>.</h4>
 <br><br>
 
       <div class="col-md-6 col-md-offset-3">
